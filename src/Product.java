@@ -37,10 +37,3 @@ public abstract class Product {
     public abstract double getDiscount();
 }
 
-// لم نقم ساتعمال او اختبار الدوال التاليه:
-//public void setName(String name)"from class Product"
-//public void setPrice(double price) "from class Product"
-//public Book()"from class Book"
-//public void setAuthor(String author)"from class Book"
-//public Movie()"from class Movie"
-//public void setDirector(String director)"from class Movie"
